@@ -98,26 +98,16 @@ AI-powered portfolio platform.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Pratiksingh07-dy&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratiksingh07-dy&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pratiksingh07-dy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratiksingh07-dy&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratiksingh07-dy&theme=tokyonight&hide_border=true"/>
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pratiksingh07-dy&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pratiksingh07-dy&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pratiksingh07-dy&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pratiksingh07-dy&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pratiksingh07-dy&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pratiksingh07-dy&theme=tokyonight&utcOffset=5.5"/>
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pratiksingh07-dy&theme=tokyonight" />
 </p>
 
 ---
@@ -125,14 +115,6 @@ AI-powered portfolio platform.
 ## 📈 Contribution Graph
 
 [![Pratik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pratiksingh07-dy&theme=tokyo-night&hide_border=true)](https://github.com/Pratiksingh07-dy)
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pratiksingh07-dy&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
 
 ---
 
