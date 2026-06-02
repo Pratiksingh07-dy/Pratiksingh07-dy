@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pratik Singh</h1>
+<h1 align="center">Hi , I'm Pratik Singh</h1>
 
 <h3 align="center">
 AI & Machine Learning Developer
@@ -87,7 +87,7 @@ Computer Vision-based surveillance system.
 
 AI-powered portfolio platform.
 
-**Tech Stack:** LangChain • RAG • NLP • Sentence Transformers
+**Tech Stack:** LangChain • RAG • NLP • Sentence Transformers • MongoDB
 
 - Retrieval-Augmented Generation Pipeline
 - Semantic Search
@@ -144,7 +144,7 @@ AI-powered portfolio platform.
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="YOUR_INSTAGRAM_URL">
+<a href="https://www.instagram.com/pratiksinghkaaccount/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
