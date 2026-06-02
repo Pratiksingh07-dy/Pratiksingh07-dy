@@ -35,10 +35,12 @@ Building AI-powered applications using NLP, Computer Vision, RAG, and Modern Ful
 
 <p align="center">
 
+
 <img src="https://img.shields.io/badge/NLP-4CAF50?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Computer_Vision-673AB7?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/RAG-009688?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Sentence_Transformers-E91E63?style=for-the-badge"/>
 
 </p>
@@ -87,15 +89,16 @@ Computer Vision-based surveillance system.
 
 AI-powered portfolio platform.
 
-**Tech Stack:** LangChain • RAG • NLP • Sentence Transformers • MongoDB
+**Tech Stack:** LangChain • Ollama • RAG • NLP • Sentence Transformers • MongoDB
 
 - Retrieval-Augmented Generation Pipeline
 - Semantic Search
 - Context-Aware Information Retrieval
-
----
+- Local LLM Integration using Ollama
 
 ## 📊 GitHub Analytics
+
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pratiksingh07-dy&layout=compact&theme=tokyonight&hide_border=true" />
 
 <p align="center">
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pratiksingh07-dy&theme=tokyonight&hide_border=true" />
