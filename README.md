@@ -1,131 +1,157 @@
 <h1 align="center">Hi 👋, I'm Pratik Singh</h1>
-<h3 align="center">AI & Machine Learning Engineer | Building Intelligent Applications with NLP, Computer Vision & RAG</h3>
+
+<h3 align="center">
+AI & Machine Learning Developer
+</h3>
 
 <p align="center">
-  <a href="https://github.com/Pratiksingh07-dy">
-    <img src="https://komarev.com/ghpvc/?username=Pratiksingh07-dy&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
+Building AI-powered applications using NLP, Computer Vision, RAG, and Modern Full-Stack Technologies.
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=AI+%26+Machine+Learning+Developer;Building+Intelligent+Applications;NLP+%7C+Computer+Vision+%7C+RAG;Python+%7C+React+%7C+FastAPI" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-🎓 Final Year B.E. Computer Science Engineering (AI & ML)
-
-🤖 Passionate about Artificial Intelligence, Machine Learning, NLP, Computer Vision, and Generative AI
-
-📚 Preparing for GATE DA and Software Engineering Roles
-
-💡 Interested in solving real-world problems using AI-powered systems
-
-🌱 Currently improving:
-- Data Structures & Algorithms
-- System Design
-- Machine Learning
-- Deep Learning
-- Large Language Models (LLMs)
+- 🎓 Final Year Computer Science Engineering (AI & ML)
+- 🤖 Passionate about Artificial Intelligence, NLP, Computer Vision, and Generative AI
+- 🔍 Experienced in building AI-powered applications using semantic search and Retrieval-Augmented Generation (RAG)
+- 💻 Strong interest in AI Engineering, Backend Development, and Scalable Systems
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-### Languages
+### Languages & Frameworks
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,javascript,react,nodejs,fastapi,mongodb,postgres,docker,git,github,vscode" />
+</p>
 
-### AI / ML
+### AI & Machine Learning
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-4CAF50?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-673AB7?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-009688?style=for-the-badge)
-![Sentence Transformers](https://img.shields.io/badge/Sentence%20Transformers-E91E63?style=for-the-badge)
+<p align="center">
 
-### Frameworks & Libraries
+<img src="https://img.shields.io/badge/NLP-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer_Vision-673AB7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Sentence_Transformers-E91E63?style=for-the-badge"/>
 
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge)
-
-### Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-
-### Tools
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
+</p>
 
 ---
 
 ## 🌟 Featured Projects
 
 ### 🚆 RailMind AI
-AI-powered railway assistant using RAG, LangChain, LLMs, PostgreSQL and FastAPI.
+
+AI-powered railway assistance platform currently under development.
+
+**Tech Stack:** Python • FastAPI • PostgreSQL
+
+- Backend API Development
+- Railway Information Management
+- Scalable Backend Architecture
+
+---
 
 ### 🎤 AI Interview Evaluator
-AI-driven interview assessment platform using NLP, speech processing, sentiment analysis and scoring mechanisms.
+
+AI-driven interview assessment platform.
+
+**Tech Stack:** Python • NLP • Speech Processing
+
+- Automated Interview Analysis
+- Sentiment Analysis
+- Candidate Evaluation & Scoring
+
+---
 
 ### 📹 Surveil AI
-Computer Vision based surveillance system for real-time monitoring and intelligent event detection.
+
+Computer Vision-based surveillance system.
+
+**Tech Stack:** Python • Computer Vision
+
+- Real-Time Monitoring
+- Object Detection
+- Event Recognition
+
+---
 
 ### 🔗 QR Folio
-Portfolio generation platform using QR-based digital sharing and profile management.
+
+AI-powered portfolio platform.
+
+**Tech Stack:** LangChain • RAG • NLP • Sentence Transformers
+
+- Retrieval-Augmented Generation Pipeline
+- Semantic Search
+- Context-Aware Information Retrieval
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pratiksingh07-dy&show_icons=true&theme=tokyonight" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Pratiksingh07-dy&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratiksingh07-dy&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratiksingh07-dy&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratiksingh07-dy&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Pratiksingh07-dy&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pratiksingh07-dy&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pratiksingh07-dy&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pratiksingh07-dy&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pratiksingh07-dy&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pratiksingh07-dy&theme=tokyonight&utcOffset=5.5"/>
 </p>
 
 ---
 
-## 🎯 Current Goals
+## 📈 Contribution Graph
 
-✅ Master Data Structures & Algorithms
+[![Pratik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pratiksingh07-dy&theme=tokyo-night&hide_border=true)](https://github.com/Pratiksingh07-dy)
 
-✅ Crack GATE DA
+---
 
-✅ Build Production-Level AI Applications
+## 🏆 GitHub Trophies
 
-✅ Contribute to Open Source
-
-✅ Secure AI/Software Engineering Opportunities
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Pratiksingh07-dy&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
 
 ---
 
 ## 🤝 Connect With Me
 
-<p align="left">
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+<p align="center">
+
+<a href="https://www.linkedin.com/in/pratiksingh2005/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel" />
+<a href="YOUR_INSTAGRAM_URL">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" />
-</a>
 </p>
 
 ---
 
 <p align="center">
-⭐ Turning Ideas into Intelligent Solutions ⭐
+Machine Learning • NLP • Computer Vision • RAG • Software Engineering
 </p>
