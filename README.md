@@ -87,14 +87,21 @@ Computer Vision-based surveillance system.
 
 ### 🔗 QR Folio
 
-AI-powered portfolio platform.
+AI-powered Smart Portfolio Platform with an integrated recruiter assistant powered by Retrieval-Augmented Generation (RAG).
 
-**Tech Stack:** LangChain • Ollama • RAG • NLP • Sentence Transformers • MongoDB
+**Tech Stack**
 
-- Retrieval-Augmented Generation Pipeline
-- Semantic Search
-- Context-Aware Information Retrieval
-- Local LLM Integration using Ollama
+LangChain • ChromaDB • Sentence Transformers • Ollama • Llama 3.2 • FastAPI • MongoDB Atlas • React
+
+**Key Features**
+
+- Retrieval-Augmented Generation (RAG)
+- Semantic Resume Search
+- ATS Resume Analysis
+- JWT Authentication
+- Dynamic QR Portfolio Sharing
+- Recruiter Analytics Dashboard
+- Context-Aware AI Assistant
 
 ## 📊 GitHub Analytics
 
