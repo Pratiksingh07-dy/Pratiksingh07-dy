@@ -129,6 +129,10 @@ LangChain • ChromaDB • Sentence Transformers • Ollama • Llama 3.2 • Fa
 
 <p align="center">
 
+<a href="https://pratik-singh-jade.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
 <a href="https://www.linkedin.com/in/pratiksingh2005/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
@@ -138,8 +142,6 @@ LangChain • ChromaDB • Sentence Transformers • Ollama • Llama 3.2 • Fa
 </a>
 
 </p>
-
----
 
 <p align="center">
 Machine Learning • NLP • Computer Vision • RAG • Software Engineering
