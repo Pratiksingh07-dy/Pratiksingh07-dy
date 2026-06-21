@@ -137,10 +137,6 @@ LangChain • ChromaDB • Sentence Transformers • Ollama • Llama 3.2 • Fa
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://www.instagram.com/pratiksinghkaaccount/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
 </p>
 
 <p align="center">
