@@ -14,8 +14,8 @@
   <a href="https://leetcode.com/u/pratiksingh07/">
     <img src="https://img.shields.io/badge/LeetCode-pratiksingh07-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
-  <a href="mailto:pratiksingh9373070570@gmail.com">
-    <img src="https://img.shields.io/badge/Email-pratiksingh9373070570-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:pratiksingh2205@gmail.com">
+    <img src="https://img.shields.io/badge/Email-pratiksingh2205-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -36,7 +36,7 @@
 
 ### Languages
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp,c" />
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript" />
 </p>
 
 ### AI & Machine Learning
@@ -136,8 +136,8 @@
 | Certificate | Issuer | Year |
 |-------------|--------|------|
 | Generative AI and ChatGPT – Self Paced | GeeksforGeeks | 2024 |
-| Python Essentials 1 | Cisco Networking Academy & OpenEDG | 2024 |
-| Getting Started with Generative AI | IBM SkillsBuild | 2024 |
+| Python Essentials 1 | Cisco Networking Academy & OpenEDG | 2026 |
+| Getting Started with Generative AI | IBM SkillsBuild | 2026 |
 | Python Complete Course for Beginners | Udemy | 2023 |
 
 ---
@@ -145,7 +145,7 @@
 ## 🏆 Leadership & Extracurricular
 
 **Marketing Head — Social Wing, RAIT (2024–25)**
-- Led a team of **13 members** across 10+ social impact initiatives
+- Led a team of **20+ members** across 10+ social impact initiatives
 - Organized **Udaan** — a 7km fundraising marathon
 - Ran blood donation camps, tree plantation drives, orphanage & NGO celebrations, old age home visits
 - Developed leadership, event planning, communication, and team management skills
