@@ -58,7 +58,7 @@
 
 ### Backend & Databases
 <p align="left">
-<img src="https://skillicons.dev/icons?i=fastapi,django,nodejs,express,postgres,mongodb,docker,git,github" />
+<img src="https://skillicons.dev/icons?i=fastapi,django,nodejs,postgres,mongodb,docker,git,github" />
 </p>
 
 ### Frontend & Tools
